@@ -1,0 +1,29 @@
+# Xcode
+build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.moved-aside
+.DS_Store
+*.orig
+Podfile.lock
+Pods/
+*.xccheckout
+*.xcworkspace
+xcuserdata/
+screenshots/
+.idea/
+*.log
+obj
+
+# Unity
+*.bin
+Temp/
+Library/
+iOS/
+Build/
