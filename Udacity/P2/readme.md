@@ -10,8 +10,9 @@
 
 ## Main Features
 
-- Demonstrate 3D scene.
+- Demonstrate 3D scene in Unity for VR.
 - Illustrate Animation, Game Object, Meterial, Camera and Light in Unity for VR.
+- In this Apartment, you can tap the button on Cardboard to switch point of view(there are 4 points), and toggle the spinning of globe near the TV. In addition, the Clock on the wall just worked like real world. Just play around and enjoy.
 
 
 
