@@ -87,9 +87,8 @@
      <Compile Include="Assets\GoogleVR\Scripts\UI\GvrReticle.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\UI\IGvrGazePointer.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\UI\IGvrGazeResponder.cs" />
-     <Compile Include="Assets\VRND-Course2-Project\Scripts\HeadRotation.cs" />
-     <Compile Include="Assets\VRND-Course2-Project\Scripts\Teleporter.cs" />
-     <Compile Include="Assets\VRND-Course2-Project\Scripts\TriggerAnimation.cs" />
+     <Compile Include="Assets\VRND-Course2-Project\Scenes\Scripts\Teleporter.cs" />
+     <Compile Include="Assets\VRND-Course2-Project\Scenes\Scripts\TriggerAnimation.cs" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
      <None Include="Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
