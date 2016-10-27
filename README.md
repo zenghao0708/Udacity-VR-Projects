@@ -1,3 +1,3 @@
-# Udacity-VR-Projects
-Here are my projects for [Udacity VR Nanodegree](https://cn.udacity.com/course/virtual-reality-developer-nanodegree--nd017).
+# VR-Projects
+Bunch of VR Projects, just help yourself.
 
