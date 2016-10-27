@@ -11,7 +11,7 @@ public class SpawnScript : MonoBehaviour
 	void Start () 
 	{
 		//亂數被設定為速度的一半
-		spawnVariance = spawnInterval * .5f;
+		spawnVariance = spawnInterval * .9f;
 		//重生敵人
 		Invoke ("Spawn", spawnInterval + Random.Range(-spawnVariance, spawnVariance));
 	}
